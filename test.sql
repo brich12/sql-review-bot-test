@@ -1,1 +1,1 @@
-select * from order_order where order_id = 12345;
+select * from order_order where order_id = 12345 and logged > "2025-04-01 00:00:00"
